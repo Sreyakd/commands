@@ -3,3 +3,4 @@ git status
 git init
 git push
 git pull
+git commit -m "messsage"
